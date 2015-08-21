@@ -1,4 +1,4 @@
-package untitled
+package main
 
 
 import "fmt"
@@ -6,8 +6,7 @@ import "fmt"
 
 func main() {
 
-fmt.Printf("This is my first go project inside of webstorm, using git")
-
-
+  fmt.Printf("This is my first go project inside of webstorm, using git")
+  fmt.Printf("\nAnd this is a test for github push")
 
 }
